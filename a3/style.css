@@ -1,0 +1,93 @@
+
+     <link rel="stylesheet" type="text/css" href="">
+
+     body {
+     	background-color : violet;
+     	background-image: url("./pink - Subtle Patterns _ Free textures for your next web project_files/pink dust.png"), url("paper.gif");
+     /* For some reason I could not make a background work, I tried both of these and others but they don't go through. */
+     }
+
+     #headerTitle {
+     	text-align: center;
+     	background-color: slateblue ;
+     	color: mediumseagreen
+
+     }
+
+     #navi
+     {
+     	text-transform: lowercase;
+     }
+
+     h2 {
+     	background-color: slateblue ;
+     	color: mediumseagreen ;    }
+
+     .green {
+     	color: #ff66cc ;
+     	font-family: 'Courgette', cursive;
+     	font-size: 200%
+     	
+     }
+
+     .yellow {
+     	color: slateblue ;
+     	border-style: solid;
+      border-width: 5px;
+      background-color: #ff66cc
+}
+     
+
+      .orange {
+      	color: #ff66cc ;
+
+     	font-size: 120% ;
+     
+ 
+     }
+.blue {
+	color: slateblue;
+}
+
+ul { list-style-type: disc; 
+	color: #ff66cc ;
+ font-size: 30px;
+      border-style: solid;
+      border-width: 5px;
+      list-style-position: inside;
+      /* I have never used a list style position before. */
+      font-family: 'Dosis', sans-serif;
+}
+
+nav {
+	color: mediumseagreen ;
+
+
+}
+
+  a {
+  	color: mediumseagreen ;
+  	text-decoration: none ;
+  }
+
+
+
+h1:hover, h2:hover {
+  background-color: yellow;
+} 
+
+p {
+  text-align: center;
+  font-size: 200% ;
+  font-family: 'Dosis', sans-serif;
+
+}
+footer {
+	color: slateblue;
+}
+
+
+
+
+
+
