@@ -20,3 +20,10 @@ Created by Valarie Jensen
 South Beach, Miami multipage website
 Professor E Rod
 Created for Web Lab CIM 111 Spring 2019
+
+
+a5
+Created by Valarie Jensen
+How To Javascript assignment
+Professor E Rod
+Created for Web Lab CIM 111 Spring 2019 in April
