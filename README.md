@@ -27,3 +27,9 @@ Created by Valarie Jensen
 How To Javascript assignment
 Professor E Rod
 Created for Web Lab CIM 111 Spring 2019 in April
+
+aSIX
+Created by Valarie Jensen
+Javascript assignment 2
+Professor E Rod
+Created for Web Lab CIM 111 Spring 2019 late April
